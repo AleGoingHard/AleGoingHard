@@ -1,5 +1,6 @@
 ## 🦋AleGoingHard.
-**Working on a Big Project. Soon on my profile. Let me cook.**
+![Working on a Big Project. Soon on my profile. Let me cook.](https://img.shields.io/badge/Digital%20Craftsman-%28Developer%2FFilmmaker%2FCreator%29-blueviolet?style=for-the-badge)
+
 
 ### 💻 Languages and Tools
 
