@@ -1,18 +1,8 @@
 ## 🦋AleGoingHard.
-<p align="center">
-  <span style="
-    display: inline-block;
-    background-color: #2d3748;
-    color: #ffffff;
-    padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 50px;
-    font-family: Arial, sans-serif;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    margin: 10px 0;">
-    Working on a Big Project. Soon on my profile. Let me cook.
-  </span>
-</p>
+
+
+![Working on a Big Project. Soon on my profile. Let me cook.](https://img.shields.io/badge/Working%20on%20a%20Big%20Project-Soon%20on%20my%20profile.%20Let%20me%20cook-blueviolet?style=for-the-badge&logo=github)
+
 
 
 
