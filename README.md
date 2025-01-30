@@ -1,9 +1,6 @@
 ## 🦋AleGoingHard.
 
-
-![Working on a Big Project. Soon on my profile. Let me cook.](https://img.shields.io/badge/Working%20on%20a%20Big%20Project-Soon%20on%20my%20profile.%20Let%20me%20cook-blueviolet?style=for-the-badge&logo=github)
-
-
+**`Working on a Big Project. Soon on my profile. Let me cook.`**
 
 
 ### 💻 Languages and Tools
