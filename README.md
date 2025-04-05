@@ -1,6 +1,6 @@
 ## 🦋AleGoingHard.
 
-**`Working on a Big Project. Soon on my profile. Let me cook.`**
+**`Working on a Big Project. Soon on my profile.`**
 
 
 ### 💻 Languages and Tools
